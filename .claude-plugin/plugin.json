@@ -1,0 +1,8 @@
+{
+  "name": "har2clone",
+  "description": "Turn a browser recording of any web app into an API map, OpenAPI spec, working mock backend and a rebuild check.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}

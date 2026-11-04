@@ -1,0 +1,15 @@
+har2clone
+Copyright (c) 2026 Dodai0419. Licensed under the MIT License (see LICENSE).
+
+The stand-in design (secret dropping rules, path templating, sibling merging, replay
+order, no-match reasons) is a Python port of parts of Craft Anything:
+  crates/analysis/src/standin.rs and crates/analysis/src/web_har.rs
+  https://github.com/storytold/craft-anything
+  Copyright (c) 2026 ArtCraft Team and the Craft Anything contributors.
+  Licensed under the MIT License or the Apache License, Version 2.0, at your option.
+  Used here under the MIT License. Its permission notice is the same text as LICENSE.
+
+The idea of plain-English route names in one self-contained map page comes from Floorplan.
+The code here is new, written without copying it:
+  https://github.com/haydenschmitty/floorplan
+  Copyright (c) 2026 Hayden Smith. MIT License.

@@ -1,0 +1,13 @@
+{
+  "name": "har2clone",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "har2clone",
+      "source": "./",
+      "description": "Turn a browser recording of any web app into an API map, OpenAPI spec, working mock backend and a rebuild check."
+    }
+  ]
+}
